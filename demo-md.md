@@ -15,33 +15,3 @@ import pandas as pd
 ```{.python .input  n=2}
 print("initalize notebook")
 ```
-
-```{.json .output n=2}
-[
- {
-  "name": "stdout",
-  "output_type": "stream",
-  "text": "initalize notebook\n"
- }
-]
-```
-
-### 2. Update notebook
-
-```{.python .input  n=3}
-import numpy as np
-```
-
-```{.python .input  n=4}
-print("update notebook")
-```
-
-```{.json .output n=4}
-[
- {
-  "name": "stdout",
-  "output_type": "stream",
-  "text": "update notebook\n"
- }
-]
-```
