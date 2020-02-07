@@ -25,3 +25,23 @@ print("initalize notebook")
  }
 ]
 ```
+
+### 2. update notebook
+
+```{.python .input  n=5}
+import numpy as np
+```
+
+```{.python .input  n=6}
+print("update notebook")
+```
+
+```{.json .output n=6}
+[
+ {
+  "name": "stdout",
+  "output_type": "stream",
+  "text": "update notebook\n"
+ }
+]
+```
