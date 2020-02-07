@@ -15,3 +15,13 @@ import pandas as pd
 ```{.python .input  n=2}
 print("initalize notebook")
 ```
+
+```{.json .output n=2}
+[
+ {
+  "name": "stdout",
+  "output_type": "stream",
+  "text": "initalize notebook\n"
+ }
+]
+```
